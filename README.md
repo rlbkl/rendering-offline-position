@@ -1,5 +1,5 @@
 # rendering-offline-position
-渲染玩家离线位置，坐标，时间，名称
+minecraft渲染玩家离线位置，坐标，时间，名称
 
 版本是1.20.6 fabric以上都可以
 
